@@ -14,7 +14,7 @@ Copy code
 git clone https://github.com/yourusername/Redacted-Movie-Player.git
 Open the solution in Visual Studio:
 
-Open the .sln file located in C:\Users\jacob\source\repos\Redacted Movie Player\Redacted Movie Player.sln.
+Open the .sln file located in C:\Users\yourusername\source\repos\Redacted Movie Player\Redacted Movie Player.sln.
 Unblock Files:
 
 Right-click on the solution file (.sln) and any blocked files (e.g., .exe, .dll, .mp4) > Properties > Unblock.
