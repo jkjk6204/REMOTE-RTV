@@ -40,8 +40,6 @@ By using this software, you agree to the following terms:
 Personal use only: Do not redistribute the application.
 Liability: The developer is not responsible for any damages caused by this software.
 Content Restrictions: No piracy or illegal content.
-Violations: Failure to adhere to these terms may result in termination of service and no further updates.
-Contact
 For further assistance, feel free to reach out on Discord: redactedjk.
 
 Note I Do Not Provide The Moves Or Box Art you will need to get thems your self for more Help https://discord.gg/8fkJvX3Gs5
