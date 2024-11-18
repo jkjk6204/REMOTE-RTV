@@ -42,4 +42,4 @@ Liability: The developer is not responsible for any damages caused by this softw
 Content Restrictions: No piracy or illegal content.
 For further assistance, feel free to reach out on Discord: redactedjk.
 
-Note I Do Not Provide The Moves Or Box Art you will need to get thems your self for more Help https://discord.gg/8fkJvX3Gs5
+Note I Do Not Provide The Moves Or Box Art you will need to get them your self for more Help https://discord.gg/8fkJvX3Gs5
